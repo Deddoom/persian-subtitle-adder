@@ -84,9 +84,6 @@ python3 persian_subtitle_app.py
 - [MoviePy](https://zulko.github.io/moviepy/)
 - [Pysubs2](https://github.com/tkarabela/pysubs2)
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ---
 
 
@@ -94,5 +91,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   <sub>توسعه داده شده با ❤️ برای جامعه فارسی زبان</sub>
 
 </div>
+---
 
+## 📜 مجوز (License)
+
+این پروژه تحت مجوز **MIT License** منتشر شده است. این یعنی استفاده، تغییر و انتشار مجدد این کد برای همه آزاد است، به شرطی که نام نویسنده اصلی حفظ شود.
+
+برای جزئیات بیشتر، فایل [LICENSE](LICENSE) را مطالعه کنید.
+
+<div align="center">
+  <sub>Copyright © 2026 - Developed by Deddoom</sub>
+</div>
 
