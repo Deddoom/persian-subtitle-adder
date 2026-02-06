@@ -8,11 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)](https://github.com/)
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=App+Screenshot+Here" alt="Screenshot" width="600">
-  <br>
-  <i>(تصویری از محیط برنامه را در پوشه پروژه قرار دهید و جایگزین لینک بالا کنید)</i>
-</p>
+
 
 </div>
 
@@ -92,4 +88,5 @@ python3 persian_subtitle_app.py
 
 <div align="center">
   <sub>توسعه داده شده با ❤️ برای جامعه فارسی زبان</sub>
+
 </div>
