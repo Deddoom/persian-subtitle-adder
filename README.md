@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)](https://github.com/)
 
 
-<img src="https://github.com/Deddoom/persian-subtitle-adder/blob/main/Screenshot.png" alt="App Preview" width="300"/>
+<img src="https://github.com/Deddoom/persian-subtitle-adder/blob/main/Screenshot.png" alt="App Preview" width="800"/>
 </div>
 
 ---
@@ -101,5 +101,6 @@ python3 persian_subtitle_app.py
   <sub>توسعه داده شده با ❤️ برای جامعه فارسی زبان</sub>
 
 </div>
+
 
 
