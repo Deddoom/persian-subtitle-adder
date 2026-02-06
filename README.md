@@ -87,11 +87,6 @@ python3 persian_subtitle_app.py
 ---
 
 
-<div align="center">
-  <sub>توسعه داده شده با ❤️ برای جامعه فارسی زبان</sub>
-
-</div>
----
 
 ## 📜 مجوز (License)
 
@@ -101,5 +96,9 @@ python3 persian_subtitle_app.py
 
 <div align="center">
   <sub>Copyright © 2026 - Developed by Deddoom</sub>
+</div>
+<div align="center">
+  <sub>توسعه داده شده با ❤️ برای جامعه فارسی زبان</sub>
+
 </div>
 
