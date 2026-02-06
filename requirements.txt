@@ -1,0 +1,9 @@
+faster-whisper
+transformers
+torch
+torchaudio
+pysubs2
+moviepy
+arabic-reshaper
+python-bidi
+protobuf
